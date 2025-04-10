@@ -1,6 +1,8 @@
 
 # Odoo: Guía Completa para Desarrolladores y Empresas
 
+![Banner del proyecto](https://github.com/javierma73/Odoo/blob/main/assets/banner_odoo.png)
+
 Bienvenido al repositorio donde comparto herramientas, tips y automatizaciones para trabajar con Odoo sin perder tiempo. Esta guía está pensada para quienes quieren entender qué es Odoo, cómo instalarlo, probarlo y empezar a desarrollar módulos propios.
 
 ---

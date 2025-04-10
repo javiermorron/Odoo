@@ -1,0 +1,3 @@
+
+# Dependencias para scripts de automatización con Odoo
+# Ejemplo: requests, pandas, etc.

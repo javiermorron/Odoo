@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.log
+*.pid
+*.db
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.bak
+*.swp
+.DS_Store
